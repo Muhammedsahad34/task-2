@@ -1,0 +1,11 @@
+.freetext{
+    background-color: rgb(134, 255, 134);
+    width: 5rem;
+    padding-left: 6px;
+
+}
+.free{
+    background-color: rgb(132, 255, 134);
+    border: none;
+    height: 5vh;
+}

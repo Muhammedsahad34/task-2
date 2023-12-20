@@ -1,0 +1,19 @@
+.aside{
+    background-color: rgb(211, 242,251);
+    width: 6vh;
+    height:90vh;
+}
+
+.plus{
+    color: blueviolet;
+    background-color: rgb(145, 227, 249);
+    font-size: 25px;
+    height: 23px;
+    width:20px;
+}
+.plain{
+    width: 4vh;
+    height:15vh;
+    margin-bottom: 11vh;
+    margin-left: 2vh;
+}

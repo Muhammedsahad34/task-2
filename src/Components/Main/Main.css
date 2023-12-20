@@ -1,0 +1,7 @@
+.main2{
+    flex-grow: 1;
+    height: 90vh;
+}
+.main2::-webkit-scrollbar{
+    display: none;
+}

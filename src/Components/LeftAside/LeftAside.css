@@ -2,6 +2,7 @@
     height: 90vh;
     width: 25vw;
     cursor: pointer;
+    align-self: flex-start;
 
 }
 .profile{
@@ -28,8 +29,10 @@
 }
 .logout{
     background-color: rgb(211, 242, 253);
+    width: 6.8em;
 }
 .log{
     background-color: transparent;
     border: none;
+    
 }
