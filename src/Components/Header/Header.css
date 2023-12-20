@@ -1,0 +1,39 @@
+.div2{
+    width:calc(70% + 50px);
+    background-color: rgb(211, 242, 251);
+    border-left: 50px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-bottom: 70px solid transparent;
+}
+.div1{
+    width: calc(30% - 50px);
+}
+.main{
+    height: 10vh;
+}
+.image1{
+    width: 30%;
+    height: 10vh;
+}
+.inside{
+    width: 25vh;
+    height: 5vh;
+    margin-top: 4rem;
+    margin-right: 1rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.downlogo{
+    height: 4vh;
+    width: 4vh;
+    margin-right: 4rem;
+    margin-top: 4rem;
+}
+.image2{
+    height: 30px;
+    width: 30px;
+}
+p{
+    font-size: 12px;
+}
