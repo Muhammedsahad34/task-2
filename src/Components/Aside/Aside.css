@@ -17,3 +17,8 @@
     margin-bottom: 11vh;
     margin-left: 2vh;
 }
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}

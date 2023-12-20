@@ -1,9 +1,12 @@
 import React from 'react';
 import './Aside.css'
+import LeftAside from '../LeftAside/LeftAside';
+
 
 function Aside() {
     return (
-        <div className='d-flex justify-content-end position-relative'>
+        <div className=' main'>
+            <LeftAside/>
             <div className='aside'>
                 <div className='notification bg-white mt-2 ms-2 d-flex justify-content-center pt-1 rounded-2 pb-1'>
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-bell-fill text-primary ps-1" viewBox="0 0 16 16">

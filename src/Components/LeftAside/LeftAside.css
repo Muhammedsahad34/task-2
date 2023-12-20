@@ -1,0 +1,35 @@
+.leftaside{
+    height: 90vh;
+    width: 25vw;
+    cursor: pointer;
+
+}
+.profile{
+    height: 30vh;
+    background-color: rgb(255, 255, 255);
+}
+.right{
+    margin-top: .3rem;
+    margin-left: .5rem;
+}
+.name{
+    font-size: 2vh;
+}
+.email{
+    font-size: 1.3vh;
+}
+.dashIcon{
+    width: 2vh;
+    height: 2vh;
+}
+.dash{
+    border: 1px solid rgb(210, 206, 206);
+    height: 6vh;
+}
+.logout{
+    background-color: rgb(211, 242, 253);
+}
+.log{
+    background-color: transparent;
+    border: none;
+}
